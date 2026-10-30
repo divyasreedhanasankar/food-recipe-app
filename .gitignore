@@ -2,14 +2,14 @@ node_modules/
 .expo/
 dist/
 web-build/
+assets/
+package-lock.json
 *.orig.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
-*.orig.*
-web-build/
 .DS_Store
 npm-debug.*
 *.log
